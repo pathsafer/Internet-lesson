@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Malficion.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/INICIO.unity
+    guid: 56bb4c17abe25b94bbe29c406e00a71d
+  - enabled: 1
+    path: Assets/Scenes/sound.unity
+    guid: 00be772da8e401d4a9a66b25498ac82b
+  - enabled: 1
+    path: Assets/Scenes/Comienzo.unity
+    guid: 2e35d44668d35c74b968c125a6f48c4c
+  - enabled: 1
+    path: Assets/Scenes/Segunda.unity
+    guid: a78ed215ccf3cc647b301a95742eb6fe
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 3e79d027e0f0a5f44908c284fa48df53
+  - enabled: 1
+    path: Assets/Scenes/EXPLICACION.unity
+    guid: 051f4beda01b897469155cd6d2f07c10
+  - enabled: 1
+    path: Assets/Scenes/Jum.unity
+    guid: 7dcc3df67917a6f42b56e46255794ff9
+  - enabled: 1
+    path: Assets/Scenes/scare.unity
+    guid: 60b15f2a17357bc4ea9ebec01d640aef
+  - enabled: 1
+    path: Assets/Scenes/JUMPSCARE.unity
+    guid: c293f111a69d3814893b05f06ee8c784
+  - enabled: 1
+    path: Assets/Scenes/Fover.unity
+    guid: 9e1e92a939fff9c428aeb3ad6615d2ec
+  - enabled: 1
+    path: Assets/Scenes/Buen.unity
+    guid: 345dd08d93e78c34a9f2ca48112cab92
+  - enabled: 1
+    path: Assets/Scenes/error.unity
+    guid: d6bde2dd543ac5e44900875c9d069fdf
+  - enabled: 1
+    path: Assets/Scenes/ni idea.unity
+    guid: 8f1fcd2295fc3bc498644c85e0a05a26
+  - enabled: 1
+    path: Assets/Scenes/claro.unity
+    guid: 2a79a9224e638d347976e92413ffad3e
+  - enabled: 1
+    path: Assets/Scenes/xd.unity
+    guid: bacae98be8683b747a48fab4bb0e17c7
+  - enabled: 1
+    path: Assets/Scenes/rick.unity
+    guid: a74325d556e9237459d374e869c5b7b6
+  - enabled: 1
+    path: Assets/Scenes/reality.unity
+    guid: 732938759843f424987598c319ed26c2
+  - enabled: 1
+    path: Assets/Scenes/juy.unity
+    guid: 14987b66de5e77a4b8d89116252c70b3
+  - enabled: 1
+    path: Assets/Scenes/amigos.unity
+    guid: 6ae0edaa4034c2848b09916f196f9c7d
+  - enabled: 1
+    path: Assets/Scenes/obvio.unity
+    guid: 5b224bb6eed1b5b48b8e8f06b4fe281b
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/Leccion2.unity
+    guid: 6aa1d3b5fb45d6f488820c81cdde6177
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/bola.unity
+    guid: 85297c0cd744ff843ba6db7ba76c495b
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/corazon.unity
+    guid: ec1342f7114088b48880b763b35a1bb5
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/corazzon.unity
+    guid: d84d6bd371a80034a9d5dd8e759767f6
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/2.unity
+    guid: 6d7cc3a47380ae347a8509940dc41ff5
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/no.unity
+    guid: 20ef41ae29a720143b6679fb407b77e3
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/3.unity
+    guid: 1ba0080ee286e64469c58341e71c4db6
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/4.unity
+    guid: 9e749d12cc7208c4f92e497fbbc54f27
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/iinicio.unity
+    guid: 61b89f0d42209ce47b34ed7399ba9b17
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/fiinal.unity
+    guid: b20bf6d118e321641a2c526f76774667
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/nubecitas.unity
+    guid: 8b0c28a1100201541be01284a01e6480
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/negritos.unity
+    guid: 9784baee4ee6e7c47a1da024427af2be
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/oscuro.unity
+    guid: f47a3e7b78d3814438f8ced2123a31f8
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/end.unity
+    guid: c6381901d0ace984ea83b63e595d19e2
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/2final.unity
+    guid: 5385fc5d01802de47a40c7704164312b
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/verde.unity
+    guid: 2c99bc8c8d1719040a52b54de6ec6f0b
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/epilogo.unity
+    guid: 6b61fd5a61b89094c8e87d2735750b20
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/copia.unity
+    guid: c8c49f6247de7e54fabf806b2f270c3a
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/bruhend.unity
+    guid: f13da395e3478594eb4f09faccbe2a76
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/amigosend.unity
+    guid: ce79f05ecb43feb4eb3225ff806cd461
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/tyre.unity
+    guid: dfb79c8321cda5f41ac94994959ac96c
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/trice.unity
+    guid: 5989ecc27b5762e4abcf0eae7a097770
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/epic.unity
+    guid: 881fb0a37eccb5c46aa4d5fa71d95786
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/you.unity
+    guid: 3c5295abd1dec474f9be9cfb479f919d
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/oof.unity
+    guid: e7d6b94888378ff4faf9797a1fbed2d2
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/Caga.unity
+    guid: 7f9e836b5177cc440b6f9ff497512e23
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/creo.unity
+    guid: 6abbecc1d4f55e042a054897a22e7a43
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/oh no.unity
+    guid: 19a5ddc9a1f92d34cb7d5561eacd5537
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/felicidades.unity
+    guid: 9d09567f65ba3f949a006735fd6854a8
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/verdad.unity
+    guid: 62f9e8b5e20500945b9285aeeecb3e94
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/aqui.unity
+    guid: aced5761178e86e408eddf3502e6286d
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/sin.unity
+    guid: 3d62badb9bea8d3498540f1b0d339738
+  - enabled: 1
+    path: Assets/Leccion2 Esenas/ultimofinal.unity
+    guid: 29aaaad88e45a4a45ae47b9b19c3d758
+  m_configObjects: {}
